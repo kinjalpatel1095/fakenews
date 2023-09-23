@@ -1,0 +1,7 @@
+joblib
+google-cloud-storage
+twilio
+scikit-learn
+flask
+pandas
+flask_cors

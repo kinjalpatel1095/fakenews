@@ -1,0 +1,8 @@
+joblib
+google-cloud-storage
+twilio
+scikit-learn
+fastapi
+pandas
+uvicorn
+pydantic
